@@ -1,2 +1,2 @@
-# random machine learning projects
+# Random machine learning projects
 This repository contains random projects done during free time
