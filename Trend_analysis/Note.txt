@@ -1,0 +1,1 @@
+Trend analysis with GRU and LSTM cells on Amazon trend of the last 10 years
