@@ -1,0 +1,4 @@
+Chatbot using 2 public open source datasets
+
+- one version without attention
+- one version with attention
